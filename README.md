@@ -1,0 +1,2 @@
+# open_judge_answer
+这里收录了openjudge上的一些题目的答案，都是我自己做的
